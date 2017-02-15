@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/alecglassford
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alecglassford.com
+  * I am alecglassford (https://keybase.io/alecglassford) on keybase.
+  * I have a public key ASDHYX0WE2KHV1hi1BZz-vTExOjK18dKf1roHg7i1WdQIwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f1b82f2e433b12ba60a8883a60004931b842bbdd9e8babc4a94b27d4c879920c0a",
+            "host": "keybase.io",
+            "kid": "0120c7617d16136287575862d41673faf4c4c4e8cad7c74a7f5ae81e0ee2d56750230a",
+            "uid": "ddc2eca99f1cf5dfd76d53b987aed019",
+            "username": "alecglassford"
+        },
+        "service": {
+            "hostname": "alecglassford.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1483719948,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1483719794,
+        "hash": "dc09052d32838cee6b43171b401194c8364f350bac6e000233273f370b61bb7e676e687a12bc030735140b9df722c9ec8fae80e197d951aa41777b3e636aca5a",
+        "seqno": 788619
+    },
+    "prev": "72ac706ffde1b7fe02a21f08d8fef63c83e7446e9aefcf8adbd3360e1e654a58",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgx2F9FhNih1dYYtQWc/r0xMToytfHSn9a6B4O4tVnUCMKp3BheWxvYWTFAv97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZjFiODJmMmU0MzNiMTJiYTYwYTg4ODNhNjAwMDQ5MzFiODQyYmJkZDllOGJhYmM0YTk0YjI3ZDRjODc5OTIwYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzc2MTdkMTYxMzYyODc1NzU4NjJkNDE2NzNmYWY0YzRjNGU4Y2FkN2M3NGE3ZjVhZTgxZTBlZTJkNTY3NTAyMzBhIiwidWlkIjoiZGRjMmVjYTk5ZjFjZjVkZmQ3NmQ1M2I5ODdhZWQwMTkiLCJ1c2VybmFtZSI6ImFsZWNnbGFzc2ZvcmQifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFsZWNnbGFzc2ZvcmQuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODM3MTk5NDgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4MzcxOTc5NCwiaGFzaCI6ImRjMDkwNTJkMzI4MzhjZWU2YjQzMTcxYjQwMTE5NGM4MzY0ZjM1MGJhYzZlMDAwMjMzMjczZjM3MGI2MWJiN2U2NzZlNjg3YTEyYmMwMzA3MzUxNDBiOWRmNzIyYzllYzhmYWU4MGUxOTdkOTUxYWE0MTc3N2IzZTYzNmFjYTVhIiwic2Vxbm8iOjc4ODYxOX0sInByZXYiOiI3MmFjNzA2ZmZkZTFiN2ZlMDJhMjFmMDhkOGZlZjYzYzgzZTc0NDZlOWFlZmNmOGFkYmQzMzYwZTFlNjU0YTU4Iiwic2Vxbm8iOjExLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQHkugZidCEAykcrt+AkI/62mQ75a8nGF220X+m2L5F68ql2ROn216WDXf2wjZtD+2VxCjud/T76NdOYCaW+IXwWoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAIiK1YggwarlR98jWwkCfdr3KQB+oUxARTKl8GylAqKqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alecglassford
+
+==================================================================
