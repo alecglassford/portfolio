@@ -29,14 +29,3 @@ h1 {
 h1, h2, h3 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-
-/* Reading log only */
-
-#log {
-    font-size: 0.8em;
-}
-
-.time {
-    opacity: 0.5;
-    font-size: 0.5em;
-}
