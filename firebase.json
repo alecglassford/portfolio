@@ -1,5 +1,8 @@
 {
   "hosting": {
-    "public": "public"
+    "public": "public",
+    "ignore": [
+        ".DS_Store"
+    ]
   }
 }

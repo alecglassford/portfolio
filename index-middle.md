@@ -12,7 +12,7 @@ This site is (very much) a work in progress. In the meantime, here are some link
 * [Twitter](https://twitter.com/alecglassford) - Although I've been on the site since middle school (!), I don't tweet very often. My DMs are open.
 * [Medium](https://medium.com/@alecglassford) - Not always my most polished writing, but I do enjoy experimenting a lot here.
 * [GitHub](https://github.com/alecglassford) - Some code I've written is here! Some I've written (especially for class or work) is not.
-* [LinkedIn](https://www.linkedin.com/in/alecglassford) - This communicates my educational and work experiences pretty effectively. My [résumé](assets/alec-glassford-resume-2017-02-01.pdf) sums up much of it too.
+* [LinkedIn](https://www.linkedin.com/in/alecglassford) - This communicates my educational and work experiences pretty effectively. My [résumé](assets/alec-glassford-resume-2017-03-01.pdf) sums up much of it too.
 * [MuckRock](https://www.muckrock.com/accounts/profile/alec/) - Really trying to get on that FOIA Friday grind!
 
 ## Things I've worked on
@@ -26,6 +26,8 @@ What appears here is definitely not comprehensive.
 ### Projects
 In roughly reverse chronological order.
 
+* [Toast and Tea](https://github.com/alecglassford/facebook-poetry) — A project I worked on with friends at [Codex Hackathon 2017](http://codexhackathon.com/): It's a Chrome extension that inserts poetry into your Facebook news feed.
+* [New Yorker Department Browser](https://alecglassford.github.io/new-yorker-sections/) — Another project I worked on at [Codex Hackathon 2017](http://codexhackathon.com/): Mainly, I scraped a dataset of all *New Yorker* magazine articles from the last 10 years or so with their authors and "departments" (which are the funnest thing in the world, because, you know, they usually aren't real departments as most of us think of the term). And then I made this pretty unsatisfying visualization, which I hope to improve when I have some time. I'd also love to combine gender analysis of author names (see below) to see who writes for which departments.
 * [What I'm reading online](reading) — I wanted to keep better track of what I'm reading online and share it, so I made some little bookmarklets that ping [a wee Gomix server](https://gomix.com/#!/project/alec-reads), which saves my reading into a Firebase database, which is then fetched from by a [totally static page on this site](reading) that formats the data with [Mustache templates](https://mustache.github.io/). Playing with lots of different little technologies! I hope to make this prettier soon.
 * [Breaking News Consumer Handbook Bot](http://bnch.gomix.me/) - Inspired by [On the Media](https://www.wnyc.org/shows/otm/) and [Paul Ford](https://twitter.com/ftrain/status/754046492177010688), I made a little Twitter bot that tweets out the invaluable [Breaking News Consumer's Handbooks](https://www.wnyc.org/series/breaking-news-consumers-handbook/). Most of the effort was data wrangling, and it doesn't work super robustly since it's deployed on Gomix, which is a gorgeous, fun platform that I was delighted to play with but is not particularly suited to production (the bot sleeps a lot). Maybe I'll redeploy it somewhere more appropriate at some point. But yay for media literacy!
 * [Patterns in the Pulitzer Prize and National Book Award for Fiction and Poetry](https://alecglassford.github.io/literary-prizes/) - A wee visualization comparing nominees and winners of these prizes.
