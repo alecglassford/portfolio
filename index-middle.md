@@ -7,7 +7,7 @@ I'm a student + technologist + journalist + human. This site is (very much) a wo
 * [Keybase](https://keybase.io/alecglassford) - Send me an encrypted message, or see that other accounts are verifiably linked to this identity.
 * [Twitter](https://twitter.com/alecglassford) - Although I've been on the site since middle school (!), I don't tweet very often. My DMs are open.
 * [GitHub](https://github.com/alecglassford) - Some code I've written is here! Some I've written (especially for class or work) is not.
-* [LinkedIn](https://www.linkedin.com/in/alecglassford) - This communicates my educational and work experiences pretty effectively. My [resume](assets/alec-glassford-resume-2017-03-01.pdf) sums up much of it too.
+* [LinkedIn](https://www.linkedin.com/in/alecglassford) - This communicates my educational and work experiences pretty effectively. My [resume](assets/alec-glassford-resume-2017-10-09.pdf) sums up much of it too.
 * [MuckRock](https://www.muckrock.com/accounts/profile/alec/) - Really trying to get on that FOIA Friday grind!
 
 ## [My own damn house 🏡](https://psmag.com/social-justice/toast-story-latest-artisanal-food-craze-72676)
