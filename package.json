@@ -19,7 +19,7 @@
   },
   "scripts": {
     "build": "node build.js",
-    "serve": "npm run build && serve public"
+    "dev": "node build.js watch & serve public"
   },
   "devDependencies": {
     "marked": "^0.4.0",
