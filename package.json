@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "Alec Glassford's portfolio/homepage",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/alecglassford/portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/alecglassford/portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecglassford/portfolio.git"
+  },
+  "author": {
+    "name": "Alec Glassford",
+    "email": "glassford@cs.stanford.edu",
+    "url": "https://alecglassford.com"
+  },
+  "scripts": {
+    "build": "echo \"$(cat index-top.html)\" '<small>Updated' $(date +'%a. %b %d, %Y') '</small>' \"$(marked index-middle.md)\" '<small>Favicon via <a href=\"https://github.com/twitter/twemoji\">Twemoji</a> (<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY 4.0</a>)</small>' \"$(cat index-bottom.html)\" > public/index.html",
+    "serve": "npm run build && serve public"
+  },
+  "devDependencies": {
+    "marked": "^0.4.0",
+    "serve": "^9.4.0"
+  }
+}
