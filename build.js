@@ -14,11 +14,11 @@ const build = async function build() {
   try {
     const [top, middle] = await Promise.all([
       readFile('index-top.html', 'utf8'),
-      readFile('index-middle.md', 'utf8'),
+      readFile('README.md', 'utf8'),
     ]);
     const result = `${top}
         <small>Updated ${now.toDateString()}</small>
-        ${marked(middle)}
+        ${marked(middle.replace(/public\/assets/g, 'assets'))}
         <small>Favicon via <a href="https://github.com/twitter/twemoji">Twemoji</a> (<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>)</small>
       </body>
     </html>`;
@@ -36,7 +36,7 @@ if (process.argv[2] === 'watch') {
   console.log('👀 Watching for changes to index-middle and index-top');
   try {
     fs.watch('index-top.html', build);
-    fs.watch('index-middle.md', build);
+    fs.watch('README.md', build);
   } catch (err) {
     console.error('Could not watch 😰. Here is the error:');
     console.error(err);
