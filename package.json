@@ -19,10 +19,10 @@
   },
   "scripts": {
     "build": "node build.js",
-    "dev": "node build.js watch & serve public"
+    "dev": "node build.js watch & sirv --dev --no-clear public"
   },
   "devDependencies": {
     "marked": "^0.4.0",
-    "serve": "^9.4.0"
+    "sirv-cli": "^2.0.2"
   }
 }
